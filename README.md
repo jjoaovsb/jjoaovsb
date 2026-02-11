@@ -27,5 +27,3 @@ Desenvolvedor de Software com atuação focada em engenharia de dados, automaç�
 * **LinkedIn:** [/joaoobernardino](https://linkedin.com/in/joaoobernardino)
 * **E-mail:** jjoaovsb@gmail.com
 
----
-*Nota: Como desenvolvedor daltônico, priorizo a arquitetura da informação, o contraste e a clareza estrutural em todos os meus projetos de interface.*
