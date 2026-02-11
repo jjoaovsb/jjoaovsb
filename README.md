@@ -20,7 +20,7 @@ Desenvolvedor de Software com atuação focada em engenharia de dados, automaç�
 
 ## Educação
 
-* **Engenharia de Controle e Automação:** Universidade Federal de Itajubá (UNIFEI) - Previsão 2027.
+* **Engenharia de Controle e Automação:** Universidade Federal de Itajubá (UNIFEI)
 
 ## Contato
 
