@@ -11,7 +11,7 @@ I have extensive experience building custom solutions that optimize tasks, organ
 Currently, I am managing complex data operations and developing intelligent, scalable products.
 <!-- Atualmente, gerencio operações complexas de dados e desenvolvo produtos inteligentes e escaláveis. -->
 
-### 🛠️ Technical Skills
+###  Technical Skills
 <!-- 🛠️ Habilidades Técnicas -->
 
 **Backend & Data Engineering**
@@ -51,8 +51,8 @@ Currently, I am managing complex data operations and developing intelligent, sca
 * **Methodologies:** Agile project management and end-to-end software development lifecycle.
 <!-- * **Metodologias:** Gestão ágil de projetos e ciclo de vida de desenvolvimento de software de ponta a ponta. -->
 
-### 💼 Recent Experience
-<!-- 💼 Experiência Recente -->
+###   Experience
+<!--  Experiência Recente -->
 
 * **Analista de Dados Pleno** at VALENET
 <!-- * **Analista de Dados Pleno** na VALENET -->
@@ -61,7 +61,7 @@ Currently, I am managing complex data operations and developing intelligent, sca
 * **Software Developer** (Freelance / Autonomous)
 <!-- * **Desenvolvedor de Software** (Freelance / Autônomo) -->
 
-### 🎓 Education
+###  Education
 <!-- 🎓 Educação -->
 
 * **Universidade Federal de Itajubá (UNIFEI)** - Bachelor of Science and Technology
