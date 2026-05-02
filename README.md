@@ -54,7 +54,7 @@ Currently, I am managing complex data operations and developing intelligent, sca
 ###   Experience
 <!--  Experiência Recente -->
 
-* **Analista de Dados Pleno** at VALENET
+* ** Data Analyst** at VALENET
 <!-- * **Analista de Dados Pleno** na VALENET -->
 * **Founder** at AgentStudy
 <!-- * **Fundador** no AgentStudy -->
