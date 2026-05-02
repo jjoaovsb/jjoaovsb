@@ -1,5 +1,5 @@
 # João Bernardino
-### Software Developer | Full-Stack | Cloud | BI
+### Software Developer | Full-Stack | IA | BI
 <!-- Desenvolvedor de Software | Full-Stack | Nuvem | BI -->
 
 Software Developer and Founder with a strong focus on data engineering, process automation, and full-stack development. 
