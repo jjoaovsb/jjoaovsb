@@ -1,53 +1,47 @@
-# João Bernardino
+# Hi there, I'm João Bernardino 👋
 
-📍 Itabira, MG | 📧 jjoaovsb@gmail.com | 📱 33 998093259  
-🔗 [LinkedIn](https://linkedin.com/in/joaoobernardino) | 🐙 [GitHub](https://github.com/jjoaovsb)
+### Mid-Level Data Analyst | Full-Stack Developer | Tech Entrepreneur
 
----
+I am a Data Analyst and Developer from Brazil, currently pursuing a Bachelor of Science and Technology at UNIFEI. I specialize in data-driven automations, building technology solutions, and integrating AI to solve real-world problems.
 
-## 🎓 Educação
-
-* **Bacharelado em Ciência e Tecnologia** — Universidade Federal de Itajubá - UNIFEI (Graduação, Cursando)
-  * *Campus Itabira*
-
----
-
-## 💼 Experiência Profissional
-
-### Valenet (Março 2026 - Presente)
-* **Cargo:** Analista de Dados Pleno (Minas Gerais, Brasil)
-* Otimizo as operações para mais de 250 mil clientes com foco em resolução de problemas, apresentação de indicadores e melhoria de processos, utilizando automações impulsionadas por análise de dados, Azure, ETL, integrações de API, criação de dashboards (Power BI, Grafana) e desenvolvimento em SQL e JavaScript.
-* **Competências:** Microsoft Excel, Grafana, Melhoria de processos, Firebase, ETL, DAX, SQL, Telecomunicações, Google Analytics, Análise de dados, JavaScript, Microsoft Power BI, Postman, Azure DevOps, n8n, Azure Data Factory, Automação.
-
-### SLAB Inteligência Imobiliária (Agosto 2024 - Presente)
-* **Cargo:** Analista de Dados - PJ (Remoto)
-* Construo soluções de tecnologia e marketing para o mercado imobiliário. Desenvolvo sistemas e estratégias para automatizar a captação de imóveis e a geração de leads para vendas e locações. Estruturação de processos com foco na entrega de oportunidades qualificadas de vendas para corretores e imobiliárias.
-* **Competências:** Desenvolvimento full-stack, Qualificação de leads, Operações de vendas, Inteligência artificial, Análise de dados, Estratégia de marketing, Mercado imobiliário, Python, TypeScript, Node.js, React.js, SQL, PostgreSQL, DAX, Web Scraping, ETL, Microsoft Power BI.
-
-### Autônomo (Janeiro 2021 - Presente)
-* **Cargo:** Analista de Dados - PJ (Remoto)
-* Experiência em todo o ciclo de desenvolvimento, desde o alinhamento direto com o cliente até a entrega final do projeto. Apresentação de indicadores, otimização de tarefas e fluxos de trabalho com foco no aumento da eficiência dos processos de negócios.
-* **Dashboard de Marketplaces (Power BI):** Indicadores de venda de e-commerce.  
-  👉 [Acessar Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmFjOGY5MjEtYjM3MS00ZWYwLThiZTItYzg3ZTJkN2I3YjUxIiwidCI6ImFkYWMzNzYyLWYzMWQtNDliNS1iYWI1LWY3NjcxNzZmZjQyNSJ9)
-* Criador e desenvolvedor do **AgentStudy** ([www.agentstudy.com.br](https://www.agentstudy.com.br)), uma plataforma educacional gratuita com Inteligência Artificial (que oferece chat, cronogramas, fluxogramas, resumos e exercícios). Contamos com mais de 100 alunos de todo o país, com usuários em instituições como UNESP, USP, IFBA, UFAL, UNIFEI e PUC, entre outras instituições de destaque.
-* **Competências:** Web Scraping, Microsoft Excel, React.js, Desenvolvimento web, Node.js, Melhoria de processos, ETL, DAX, SQL, Selenium, Banco de dados, Desenvolvimento de back-end, FastAPI, UX/UI de Dashboards, Desenvolvimento de front-end, TypeScript, PostgreSQL, Python, Data Analyst, JavaScript, Microsoft Power BI, C++, Desenvolvimento full-stack, Automação, Inteligência artificial, Análise de dados.
+- 🔭 I’m currently working as a **Mid-Level Data Analyst @ Valenet** and building solutions at **SLAB Inteligência Imobiliária**.
+- 🚀 I’m the creator of **[AgentStudy](https://www.agentstudy.com.br)**, a free AI-powered educational platform with over 100 students nationwide.
+- 🔬 I'm conducting **Undergraduate Research** on AI applied to sustainable energy and water monitoring.
+- 📫 How to reach me: **[jjoaovsb@gmail.com](mailto:jjoaovsb@gmail.com)**
 
 ---
 
-## 🏆 Atividades Extracurriculares
+### 🛠️ Tech Stack & Skills
 
-### Lots Aerodesign (Dezembro 2024 - Dezembro 2025)
-* **Cargo:** Diretor de Aerodinâmica (UNIFEI - Itabira)
-* Atuação como Diretor de Aerodinâmica na equipe de aerodesign da UNIFEI, participante da Competição SAE Aerodesign realizada no ITA (São José dos Campos).
-* Responsável pelos projetos aerodinâmicos, simulações e otimização de asas para as aeronaves da equipe.
-
-### Iniciação Científica (IC) (Junho 2026 - Presente)
-* **Cargo:** Pesquisador (UNIFEI)
-* Desenvolvimento de plataforma de monitoramento de energia e água mais sustentáveis com Inteligência Artificial.
+- **Languages:** Python, JavaScript, TypeScript, SQL, DAX, C++
+- **Data & Cloud:** Power BI, Grafana, Azure Data Factory, PostgreSQL, ETL pipelines, Data Analysis
+- **Web Development:** React.js, Node.js, FastAPI, HTML/CSS
+- **Tools & Automations:** Web Scraping (Selenium), n8n, Postman, Azure DevOps, Git
 
 ---
 
-## 🗣️ Idiomas
+### 💼 Professional Experience
 
-* **Inglês:** Intermediário
-* **Espanhol:** Intermediário
+- **Valenet** | *Mid-Level Data Analyst* (Mar 2026 - Present)
+  - Optimizing operations for 200k+ clients using data-driven automations, ETL, Azure, and API integrations. Building dashboards in Power BI and Grafana.
+- **SLAB Inteligência Imobiliária** | *Data Analyst / Developer* (Aug 2024 - Present)
+  - Developing systems and strategies to automate property acquisition and lead generation for the real estate market.
+- **Freelance & Tech Entrepreneur** | *Full-Stack Developer* (Jan 2021 - Present)
+  - Managing the entire development cycle for client projects. 
+  - 📊 **Featured Project:** [E-commerce Marketplaces Dashboard (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiMmFjOGY5MjEtYjM3MS00ZWYwLThiZTItYzg3ZTJkN2I3YjUxIiwidCI6ImFkYWMzNzYyLWYzMWQtNDliNS1iYWI1LWY3NjcxNzZmZjQyNSJ9)
+
+---
+
+### 🎓 Education & Extracurriculars
+
+- **B.S. in Science and Technology** - Universidade Federal de Itajubá (UNIFEI) | *In Progress*
+- **Lots Aerodesign (UNIFEI)** - *Aerodynamics Director (2024 - 2025)*
+  - Led aerodynamic projects and simulations. 9th place overall at SAE Aerodesign Brazil 2024.
+- **Languages:** English (Advanced), Spanish (Advanced), Portuguese (Native)
+
+---
+
+### 🌐 Connect with me
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/joaoobernardino)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/jjoaovsb)
